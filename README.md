@@ -11,16 +11,23 @@
 6. Инструменты тестирования для работы с документацией
 7. Инструменты тестирования. Клиент-Сервер
 8. Жизненный цикл разработки ПО. Гибкие методологии разработки ПО
-9. Курсовая работа по модулю
+9. [Курсовая работа по модулю](https://github.com/Ekaterina-Isabel/manual_testing_of_web_applications_Coursework)
 </details>
 
 <details>
    <summary>Git — система контроля версий</summary>
 
-1. Введение в систему контроля версий Git 
-2. Внедрение системы контроля версий Git & GitHub
-3. История работы и ветки в Git & GitHub
-4. Командная работа в Git & GitHub
+1. Внедрение системы контроля версий Git & GitHub
+   [Самостоятельное задание](https://github.com/Ekaterina-Isabel/NeuroStartUp)
+   [Задача 1](https://github.com/Ekaterina-Isabel/1.2.Site-For-Import)
+   [Задача 2](https://github.com/Ekaterina-Isabel/git-homeworks-neuro)
+2. История работы и ветки в Git & GitHub
+   [Задача 1](https://github.com/Ekaterina-Isabel/feature-code-documentation)
+   [Задача 2, 3](https://github.com/Ekaterina-Isabel/git-homeworks-neuro-merge)
+3. Командная работа в Git & GitHub
+   [Задача 1, 2](https://github.com/Ekaterina-Isabel/git-homeworks-neuro-fork)
+   [Задача 2](https://github.com/netology-code/git-homeworks-neuro-issues/issues)
+   [Задача 3](https://github.com/Ekaterina-Isabel/git-homeworks-neuro-pr)
 </details>
 
 <details>
@@ -49,19 +56,19 @@
 9. Объектно-ориентированное программирование и проектирование
    [Задача 1](https://github.com/Ekaterina-Isabel/10.-Radio)
 10. Объектно-ориентированное программирование: ключевые принципы
-
+   [Задача 1](https://github.com/Ekaterina-Isabel/1.8.-API)
 11. Объекты с внутренним состоянием, управление состоянием при тестировании
-
+   [Задача 1, 2](https://github.com/Ekaterina-Isabel/10.-Radio/pull/2)
 12. Композиция и зависимость объектов. Mockito при создании авто-тестов
-
+   [Задача 1, 2](https://github.com/Ekaterina-Isabel/11.-Poster_manager)
 13. Наследование и расширяемость систем. Проблемы наследования
-
+   [Задача 1, 2](https://github.com/Ekaterina-Isabel/Product_Manager)
 14. Исключительные ситуации и их обработка. Тестирование исключений
-
+   [Задача 1, 2](https://github.com/Ekaterina-Isabel/13.-NotFoundException)
 15. Интерфейсы для организации малой связности. Обобщённое программирование (Generics)
-
+   [Задача 1](https://github.com/Ekaterina-Isabel/14.-Ticket_Search)
 16. Collections Framework. CRUD и тестирование систем, управляющих набором объектов
-
+   [Задача 1, 2](https://github.com/Ekaterina-Isabel/15.-Tournament)
 </details>
 
 <details>
